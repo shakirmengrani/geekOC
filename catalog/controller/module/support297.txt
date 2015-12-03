@@ -1,0 +1,4 @@
+Introduce title on header => catalog\view\theme\tt_matalo_homex {x:number}\template\common\header.tpl on lines 133, 134, 141, 142, 149, 150.
+Tilte "contact" on menu: admin => extensions => modules => Edit Cms block => List Cms => Contact us => Configuration => Change your title replace "contact us"
+Slide show: admin => extensions => modules => Edit OC Slide show => Slides Manager => Edit Home slideshow x{x: number } => Change image, title...
+Banner right: image/catalog change your picture 1{xx.jpg} by name: banner2_01.jpg, change your picture 2{xx.jpg} by name: banner2_02.jpg
